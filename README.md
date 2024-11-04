@@ -7,7 +7,7 @@ An aviation sectional map, using LEDs to display live Florida weather.
 Inspired by the amazing work by Sarah at [Making a LED powered METAR map for your wall](https://slingtsi.rueker.com/making-a-led-powered-metar-map-for-your-wall).
 
 <p align = "center">
-  <img width="550" src="https://github.com/user-attachments/assets/9d5b22dd-ee2a-4f99-a6d8-ca5aa2d37ca5">
+  <img width="550" src="Images/complete.jpg">
 </p>
 
 *METAR(METeorological Aerodrome Report)s over Florida*
@@ -50,7 +50,7 @@ shows a predefined map for demos, in the event we have good weather(all green LE
 # BOM (Bill of Materials)
 
 <p align = "center">
-  <img width="80%" src="https://github.com/user-attachments/assets/ad8bc85b-e36e-4213-b336-2cfc18b7b26d">
+  <img width="80%" src="Images/in_progress.png">
 </p>
 
 <div align="center">

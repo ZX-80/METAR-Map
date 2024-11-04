@@ -1,0 +1,27 @@
+[project]
+name = "metar_map"
+version = "1.1.0"
+description = "Control LEDs for a METAR map."
+requires-python = ">= 3.12"
+readme = "README.md"
+dependencies = [
+    "Adafruit-ADS1x15 == 1.0.2",
+    "rpi_ws281x  == 5.0.0",
+    "adafruit-circuitpython-neopixel == 6.3.12",
+]
+
+[tool.black]
+target-version = ["py312"]
+line-length = 120
+
+[tool.pylint.messages_control]
+max-line-length = 120
+
+[tool.mypy]
+python_version = "3.12"
+strict = true
+ignore_missing_imports = true
+
+[tool.isort]
+line_length = 120
+profile = "black"
